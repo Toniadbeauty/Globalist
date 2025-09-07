@@ -1,0 +1,6 @@
+wahala-blog/
+│
+├── index.html        (Homepage)
+├── about.html        (About page)
+├── post1.html        (Sample blog post)
+└── style.css         (Shared styling)
